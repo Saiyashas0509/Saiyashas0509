@@ -33,11 +33,7 @@ My name is **Sai Yashas** Driven by my interest in technology, I've embarked on 
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **HTML , CSS , SQL**
-
 - 📫 How to reach me **saiyashas13@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
